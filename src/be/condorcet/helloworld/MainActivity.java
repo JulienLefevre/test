@@ -12,7 +12,7 @@ public class MainActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		//setContentView(R.layout.activity_main);
 		coucou=new TextView(this);
-		coucou.setText("Hello World");
+		coucou.setText("Hello Robin");
 		setContentView(coucou);
 		
 	}
